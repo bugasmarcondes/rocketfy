@@ -12,3 +12,5 @@ Deletar tudo que vem por default, mantendo somente:
 
 yarn add styled-components
 1. Adicionar /src/styles/global.js
+2. Criando /src/components/
+    2.1. Criando componente Header
