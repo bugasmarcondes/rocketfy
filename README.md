@@ -19,3 +19,5 @@ yarn add styled-components
         - yarn add react-icons
     4. Developing component Card
         - avatars.adorable.io
+3. Mocking API with /services/api.js
+    1. Reading data from API through our components
