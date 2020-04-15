@@ -9,3 +9,6 @@ Deletar tudo que vem por default, mantendo somente:
 - .gitignore
 - package.json
 - yarn.lock
+
+yarn add styled-components
+1. Adicionar /src/styles/global.js
